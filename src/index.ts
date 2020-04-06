@@ -2,6 +2,7 @@ import { performance } from 'perf_hooks'
 
 /**
  * Measure precise time in Node.js
+ * @example
  * ```javascript
  * const end = timer()
  * // ... do something
